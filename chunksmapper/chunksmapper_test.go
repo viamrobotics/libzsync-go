@@ -1,7 +1,7 @@
 package chunksmapper
 
 import (
-	"github.com/Otterverse/libzsync-go/chunks"
+	"github.com/viamrobotics/libzsync-go/chunks"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

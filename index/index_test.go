@@ -3,7 +3,7 @@ package index
 import (
 	"testing"
 
-	"github.com/Otterverse/libzsync-go/chunks"
+	"github.com/viamrobotics/libzsync-go/chunks"
 )
 
 // Weak checksums must be 4 bytes

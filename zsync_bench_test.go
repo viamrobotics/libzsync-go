@@ -1,9 +1,9 @@
 package zsync
 
 import (
-	"github.com/Otterverse/libzsync-go/chunksmapper"
-	"github.com/Otterverse/libzsync-go/control"
-	"github.com/Otterverse/libzsync-go/sources"
+	"github.com/viamrobotics/libzsync-go/chunksmapper"
+	"github.com/viamrobotics/libzsync-go/control"
+	"github.com/viamrobotics/libzsync-go/sources"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"io/ioutil"

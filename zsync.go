@@ -20,12 +20,12 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Otterverse/libzsync-go/chunks"
-	"github.com/Otterverse/libzsync-go/chunksmapper"
-	"github.com/Otterverse/libzsync-go/control"
-	"github.com/Otterverse/libzsync-go/hasedbuffer"
-	"github.com/Otterverse/libzsync-go/index"
-	"github.com/Otterverse/libzsync-go/sources"
+	"github.com/viamrobotics/libzsync-go/chunks"
+	"github.com/viamrobotics/libzsync-go/chunksmapper"
+	"github.com/viamrobotics/libzsync-go/control"
+	"github.com/viamrobotics/libzsync-go/hasedbuffer"
+	"github.com/viamrobotics/libzsync-go/index"
+	"github.com/viamrobotics/libzsync-go/sources"
 )
 
 type ZSync struct {

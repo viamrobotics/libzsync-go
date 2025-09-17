@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Otterverse/libzsync-go/chunks"
-	"github.com/Otterverse/libzsync-go/index"
+	"github.com/viamrobotics/libzsync-go/chunks"
+	"github.com/viamrobotics/libzsync-go/index"
 )
 
 type ControlHeaderHashLengths struct {
