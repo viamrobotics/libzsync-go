@@ -1,11 +1,11 @@
 module github.com/viamrobotics/libzsync-go
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/glycerine/rbuf v0.0.0-20190314090850-75b78581bebe
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.52.0
 )
 
 require (
